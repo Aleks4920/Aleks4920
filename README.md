@@ -2,7 +2,7 @@
 
 
 
-![](https://raw.githubusercontent.com/aleks4920/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Aleks4920/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
 <!--
 **Aleks4920/Aleks4920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
