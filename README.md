@@ -2,11 +2,13 @@
 
 
 
-![](https://raw.githubusercontent.com/Aleks4920/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Aleks4920/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![]([https://raw.githubusercontent.com/Aleks4920/github-stats/master/generated/overview.svg](https://raw.githubusercontent.com/Aleks4920/GitStats/master/generated/overview.svg?token=GHSAT0AAAAAABYRIZTSBRLYZ4VXDQCBAHVMYZD2AGA#gh-dark-mode-only)
+![]([https://raw.githubusercontent.com/Aleks4920/github-stats/master/generated/overview.svg](https://raw.githubusercontent.com/Aleks4920/GitStats/master/generated/overview.svg?token=GHSAT0AAAAAABYRIZTTBYARFV2HDGDBRCT2YZDZSZA#gh-light-mode-only)
 
-![](https://raw.githubusercontent.com/Aleks4920/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Aleks4920/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![]([https://raw.githubusercontent.com/Aleks4920/github-stats/master/generated/languages.svg](https://raw.githubusercontent.com/Aleks4920/GitStats/master/generated/languages.svg?token=GHSAT0AAAAAABYRIZTSIX3JIV2J6VJGL63KYZDZ7QA)#gh-dark-mode-only)
+![]([https://raw.githubusercontent.com/Aleks4920/github-stats/master/generated/languages.svg](https://raw.githubusercontent.com/Aleks4920/GitStats/master/generated/languages.svg?token=GHSAT0AAAAAABYRIZTSIX3JIV2J6VJGL63KYZDZ7QA)#gh-light-mode-only)
+
+
 <!--
 **Aleks4920/Aleks4920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
