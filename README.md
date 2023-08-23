@@ -31,7 +31,6 @@
 <img src="https://raw.githubusercontent.com/Aleks4920/GitStats/master/generated/overview.svg?token=GHSAT0AAAAAABYRIZTSRIMEA4J6Q4JYOZF2YZD2IVA#gh-light-mode-only" />
 <img src="https://raw.githubusercontent.com/Aleks4920/GitStats/master/generated/languages.svg?token=GHSAT0AAAAAABYRIZTTBI57WLRUBJKAYTYYYZD2GWA#gh-light-mode-only" />
 
-<br>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/sash4920p"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/sash4920p" /></a></p><br><br>
