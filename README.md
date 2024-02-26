@@ -1,3 +1,4 @@
+<div style="background: linear-gradient(to right, #33ccff, #ff99cc); padding: 20px;">
 <h1 align="center">Hi 👋, my name is Aleksandr Zheleznov</h1>
 <h3 align="center">A CyberSecurity and Tech Enthusiast</h3>
 
@@ -57,3 +58,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>
