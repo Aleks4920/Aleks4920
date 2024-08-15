@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aleks4920&label=Profile%20views&color=0e75b6&style=flat" alt="aleks4920" /> </p>
 
- <script src="https://tryhackme.com/badge/278260"></script>
+ <img src="https://tryhackme.com/badge/278260"></img>
 
 
 <div align="center">
