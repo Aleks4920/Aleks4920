@@ -7,8 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aleks4920&label=Profile%20views&color=0e75b6&style=flat" alt="aleks4920" /> </p>
 
- <img src="https://tryhackme.com/badge/278260"></img>
-
+ <img src="https://tryhackme-badges.s3.amazonaws.com/AtwoZ.png" alt="TryHackMe">
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Aleks4920/GitStats/master/generated/overview.svg?token=GHSAT0AAAAAABYRIZTSRIMEA4J6Q4JYOZF2YZD2IVA#gh-dark-mode-only" />
