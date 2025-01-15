@@ -7,13 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aleks4920&label=Profile%20views&color=0e75b6&style=flat" alt="aleks4920" /> </p>
 
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Aleks4920/GitStats/master/generated/overview.svg?token=GHSAT0AAAAAABYRIZTSRIMEA4J6Q4JYOZF2YZD2IVA#gh-dark-mode-only" />
-  <img src="https://raw.githubusercontent.com/Aleks4920/GitStats/master/generated/languages.svg?token=GHSAT0AAAAAABYRIZTTBI57WLRUBJKAYTYYYZD2GWA#gh-dark-mode-only" />
-  <img src="https://raw.githubusercontent.com/Aleks4920/GitStats/master/generated/overview.svg?token=GHSAT0AAAAAABYRIZTSRIMEA4J6Q4JYOZF2YZD2IVA#gh-light-mode-only" />
-  <img src="https://raw.githubusercontent.com/Aleks4920/GitStats/master/generated/languages.svg?token=GHSAT0AAAAAABYRIZTTBI57WLRUBJKAYTYYYZD2GWA#gh-light-mode-only" />
-</div>
 <br>
 <div align="center">
  <img src="https://tryhackme-badges.s3.amazonaws.com/AtwoZ.png" alt="TryHackMe">
